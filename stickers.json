@@ -60,17 +60,22 @@
     "price": 25
   },
   {
-    "name": "ガリレオ",
+    "name": "これに決めた",
+    "url": "https://cdn.phototourl.com/free/2026-08-29-0d2c21cf-40fa-4fd5-9df2-fae069ae234a.png",
+    "price": 30   
+  }
+  {
+    "name": "実に面白い",
     "url": "https://cdn.phototourl.com/free/2026-08-02-02e07729-40f5-4ed5-8e8d-0b2bf7c54da6.png",
     "price": 50
   },
   {
-    "name": "千空",
+    "name": "唆るぜ",
     "url": "https://cdn.phototourl.com/free/2026-08-02-4398fd8b-37d8-469d-96db-c5ca819b25c2.png",
     "price": 150
   },
   {
-    "name": "アーニャ",
+    "name": "あざます",
     "url": "https://cdn.phototourl.com/free/2026-08-03-781db54b-8485-40f5-8783-a637a4dd040b.png",
     "price": 150
   }
